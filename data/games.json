@@ -31,23 +31,19 @@
             }
         ]
     },
-    "fifa22": {
-        "name": "FIFA 23",
-        "size": "4.5 GB",
-        "description": "The most realistic football experience. Play with your favorite teams!",
-        "image": "https://via.placeholder.com/400x200/45B7D1/FFFFFF?text=FIFA+23",
+    "gta-sa": {
+        "name": "GTA San Andreas",
+        "size": "722.1 MB",
+        "description": "GTA San Andreas: Embark on a legendary journey through the streets of San Andreas in this open-world classic!",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Grand_Theft_Auto_San_Andreas_logo.svg/1200px-Grand_Theft_Auto_San_Andreas_logo.svg.png",
         "links": [
             {
-                "label": "Download Link 1 (Torrent)",
-                "url": "https://example.com/fifa23-torrent"
+                "label": "Download Link 1 (UP-4ever)",
+                "url": "https://www.up-4ever.net/lhg5phsc0vy2"
             },
             {
-                "label": "Download Link 2 (Direct)",
-                "url": "https://example.com/fifa23-direct"
-            },
-            {
-                "label": "Download Link 3 (Mirror)",
-                "url": "https://example.com/fifa23-mirror"
+                "label": "Download Link 2 (Mega)",
+                "url": "https://mega.nz/file/qFxhSSiD#uoBVAMif1mGPIY7Cdl_tK0PUl_RGUOC8VOjpTG1zvjc"
             }
         ]
     }
