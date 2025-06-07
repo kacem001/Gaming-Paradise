@@ -31,7 +31,7 @@ class SimpleGameApp {
 
     getGameSlug() {
         const path = window.location.pathname;
-        return path.substring(1) || 'gta3'; // افتراضي gta3
+        return path.substring(1) || 'home'; // افتراضي gta3
     }
 
     hideLoading() {
