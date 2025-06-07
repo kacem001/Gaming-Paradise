@@ -10,28 +10,24 @@
                 "url": "https://www.up-4ever.net/h8b6hbjpd5gh"
             },
             {
-                "label": "Download Link 2 (not woking)",
-                "url": "www.google.com"
-            },
-            {
-                "label": "Download Link 3 (Mega)",
+                "label": "Download Link 2 (Mega)",
                 "url": "https://mega.nz/file/WRYCAZwS#gMdxa_apwmWplOHhQBVKagHB4B_0TYA6lhPxEHc_cZM"
             }
         ]
     },
-    "minecraft": {
-        "name": "Minecraft Java Edition",
-        "size": "800 MB",
-        "description": "Build, explore, and survive in infinite worlds. The ultimate sandbox game!",
-        "image": "https://via.placeholder.com/400x200/4ECDC4/FFFFFF?text=Minecraft",
+    "CS-1.6": {
+        "name": "Counter Strike 1.6",
+        "size": "254.6 MB",
+        "description": "Dive into the legendary tactical FPS with thrilling team-based action!",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnPemDxlKKlQCChp3L6iwWWSSKFXTY4-cZfw&s",
         "links": [
             {
-                "label": "Download Link 1 (Official Mirror)",
-                "url": "https://example.com/minecraft1"
+                "label": "Download Link 1 (UP-4ever)",
+                "url": "https://www.up-4ever.net/v96mvxeqo40w"
             },
             {
-                "label": "Download Link 2 (Fast Server)",
-                "url": "https://example.com/minecraft2"
+                "label": "Download Link 2 (Mega)",
+                "url": "https://mega.nz/file/DZpHGaID#-TmFtYWjc0meTqCbDQZBUI6SSsTG8q2s--trSTOvP-Y"
             }
         ]
     },
