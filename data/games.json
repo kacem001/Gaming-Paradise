@@ -1,4 +1,12 @@
 {
+        "home": {
+        "name": "Gaming Paradise",
+        "size": "None",
+        "description": "Welcome , Don't forget to follow us ↓ ",
+        "image": "https://imgur.com/KnZiedD",
+        "links": [
+        ]
+    },
     "gta3": {
         "name": "Grand Theft Auto III",
         "size": "216.7MB",
