@@ -1,0 +1,58 @@
+{
+    "gta3": {
+        "name": "Grand Theft Auto III",
+        "size": "216.7MB",
+        "description": "Experience the defining game of the open-world genre. Liberty City awaits!",
+        "image": "https://i.redd.it/ryuzdse1uk5c1.png",
+        "links": [
+            {
+                "label": "Download Link 1 (UP-4ever)",
+                "url": "https://www.up-4ever.net/h8b6hbjpd5gh"
+            },
+            {
+                "label": "Download Link 2 (not woking)",
+                "url": "www.google.com"
+            },
+            {
+                "label": "Download Link 3 (Mega)",
+                "url": "https://mega.nz/file/WRYCAZwS#gMdxa_apwmWplOHhQBVKagHB4B_0TYA6lhPxEHc_cZM"
+            }
+        ]
+    },
+    "minecraft": {
+        "name": "Minecraft Java Edition",
+        "size": "800 MB",
+        "description": "Build, explore, and survive in infinite worlds. The ultimate sandbox game!",
+        "image": "https://via.placeholder.com/400x200/4ECDC4/FFFFFF?text=Minecraft",
+        "links": [
+            {
+                "label": "Download Link 1 (Official Mirror)",
+                "url": "https://example.com/minecraft1"
+            },
+            {
+                "label": "Download Link 2 (Fast Server)",
+                "url": "https://example.com/minecraft2"
+            }
+        ]
+    },
+    "fifa23": {
+        "name": "FIFA 23",
+        "size": "4.5 GB",
+        "description": "The most realistic football experience. Play with your favorite teams!",
+        "image": "https://via.placeholder.com/400x200/45B7D1/FFFFFF?text=FIFA+23",
+        "links": [
+            {
+                "label": "Download Link 1 (Torrent)",
+                "url": "https://example.com/fifa23-torrent"
+            },
+            {
+                "label": "Download Link 2 (Direct)",
+                "url": "https://example.com/fifa23-direct"
+            },
+            {
+                "label": "Download Link 3 (Mirror)",
+                "url": "https://example.com/fifa23-mirror"
+            }
+        ]
+    }
+}
