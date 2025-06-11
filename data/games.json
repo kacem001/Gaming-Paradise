@@ -54,5 +54,37 @@
                 "url": "https://mega.nz/file/qFxhSSiD#uoBVAMif1mGPIY7Cdl_tK0PUl_RGUOC8VOjpTG1zvjc"
             }
         ]
+    },
+            "cod1": {
+        "name": "Call of Duty 1",
+        "size": "421.3 MB",
+        "description": "Step onto the battlefield of World War II in the game that redefined first-person shooters—intense combat, historic missions, and squad-based warfare await!",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyk78i8vrUmN8HadmcN_xQ50ORhsOuAHeZ2SNsi7hWl2lqaIgl711xG758-NazdnPPSYGs2H3GXu2dcXS5K3h2qucNOMUh_gqcG1vszLCPoIV7YS4rc7y_uyqFmbmHclwcTsPRHqfEjic/s720-e365-rw/call-of-duty-1-directforgames.com.jpg",
+        "links": [
+            {
+                "label": "Download Link 1 (UP-4ever)",
+                "url": "https://www.up-4ever.net/ul8yghns0ikq"
+            },
+            {
+                "label": "Download Link 2 (Mega)",
+                "url": "https://mega.nz/file/CNw3GToR#7VihmQkzbD9-9EQKIyGEAVbBRcjdnPOPdciPzB6oI4w"
+            }
+        ]
+    },
+            "cod2": {
+        "name": "Call of Duty 2",
+        "size": "3.48 GB",
+        "description": "Experience the chaos of WWII like never before with enhanced graphics, smarter enemies, and epic battles across Europe—this is where legends are made!",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXKa8wsgjfemzo2u0lgfiXYlUF2EgcbkSMoht9i3FdC_TM3IYguV95PWUK1mumaXxJeLZwY0yqJLftMfz-aUQz2O0zTP2d9l8XQS3NGg27M22Zrm8mVhWxGZOrYQJOq3QU-5MKYzPdlQ/s16000-e365-rw/Call-of-Duty-2.jpg",
+        "links": [
+            {
+                "label": "Download Link 1 (UP-4ever)",
+                "url": ""
+            },
+            {
+                "label": "Download Link 2 (Mega)",
+                "url": "https://mega.nz/file/KN5TkAZA#Y5rPzQbUKv5gXBz4_-fNVQBB0s2QQ6bfS-MlPhdqZSw"
+            }
+        ]
     }
 }
